@@ -392,18 +392,16 @@ html {
     --line-height-big: 1.8;
 
     --section-header-align: center;
-
     --section-tagline-transform: uppercase;
     --section-tagline-margin: 0;
-
     --section-title-margin: 0;
     --section-title-color: var(--color-black);
-
     --section-padding: 5rem 0;
     --section-header-padding: 0 0 3rem;
     --section-body-padding: 0 0 3rem;
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
+    
     --footer-padding: 5rem 0 1rem;
 
     --nav-item-font-family: var(--font-family-title);
