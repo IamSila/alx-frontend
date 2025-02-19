@@ -401,7 +401,7 @@ html {
     --section-body-padding: 0 0 3rem;
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
-    
+
     --footer-padding: 5rem 0 1rem;
 
     --nav-item-font-family: var(--font-family-title);
@@ -548,7 +548,7 @@ ul.row {
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
-    background-color: var(--text-color);
+    color: var(--text-color);
 }
 
 .footer ul {
